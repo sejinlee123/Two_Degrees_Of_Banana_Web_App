@@ -6,4 +6,4 @@ FrontEnd: EJS (Embedded JavaScript templating)
 Backend : Node.js / Express.js
 Database : PostgreSQL
 
-Data was collected using webscraping.
+Data was collected using my webscraping_banana program.
