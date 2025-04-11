@@ -4,6 +4,6 @@ This web app's stack is as follows:
 
 **Frontend**: EJS (Embedded JavaScript templating)  
 **Backend**: Node.js / Express.js  
-**Database**: PostgreSQL  
+**Database**: PostgreSQL on a local server
 
-Data was collected using my `webscraping_banana` program.
+Data was collected using my `webscraping-banana` program.
