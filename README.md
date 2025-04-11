@@ -1,9 +1,9 @@
-# Two_Degrees_Of_Banana_Web_App
+# Two Degrees Of Banana Web App
 
 This web app's stack is as follows:
 
-FrontEnd: EJS (Embedded JavaScript templating)
-Backend : Node.js / Express.js
-Database : PostgreSQL
+**Frontend**: EJS (Embedded JavaScript templating)  
+**Backend**: Node.js / Express.js  
+**Database**: PostgreSQL on a local server
 
-Data was collected using my webscraping_banana program.
+Data was collected using my `webscraping-banana` program.
